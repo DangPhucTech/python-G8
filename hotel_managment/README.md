@@ -1,0 +1,1 @@
+This app is run by __init__
